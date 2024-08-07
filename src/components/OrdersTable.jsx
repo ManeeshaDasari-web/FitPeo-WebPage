@@ -2,9 +2,9 @@ import React from 'react'
 
 const OrdersTable = () => {
     const orders = [
-        { id: 1, name: "Wade Warren", orderNo: "15478256", amount: "$124.00", status: "Delivered", statusColor: "#105647", img: "../../public/Capture.PNG" },
-        { id: 2, name: "Jane Cooper", orderNo: "48965786", amount: "$365.00", status: "Delivered", statusColor: "#105647", img: "../../public/Capture.PNG" },
-        { id: 3, name: "Guy Hawkins", orderNo: "78958215", amount: "$45.00", status: "Cancelled", statusColor: "#5C353A", img: "../../public/Capture.PNG" },
+        { id: 1, name: "Wade Warren", orderNo: "15478256", amount: "$124.00", status: "Delivered", statusColor: "#105647", img: "https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_1280.png" },
+        { id: 2, name: "Jane Cooper", orderNo: "48965786", amount: "$365.00", status: "Delivered", statusColor: "#105647", img: "https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_1280.png" },
+        { id: 3, name: "Guy Hawkins", orderNo: "78958215", amount: "$45.00", status: "Cancelled", statusColor: "#5C353A", img: "https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_1280.png" },
       ];
       
   return (
