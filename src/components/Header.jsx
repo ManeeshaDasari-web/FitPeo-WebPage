@@ -19,7 +19,7 @@ const Header = () => {
             <div><IoNotificationsOutline className='icons' /></div>
           </div>
           <div>
-            <img src="../../public/Capture.PNG" alt="profile" height='30px' width='30px' />
+            <img src="https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_1280.png" alt="profile" height='30px' width='30px' />
           </div>
         </div>
       </header>
